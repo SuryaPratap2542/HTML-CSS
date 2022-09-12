@@ -1,0 +1,13 @@
+.main .h1{
+    position: sticky; 
+    text-align: center;
+}
+.pic img
+{
+    border-radius: 50%;
+    text-align: right;
+}
+.disp
+{
+    margin-top: 5px;
+}
