@@ -1,0 +1,36 @@
+.fl{
+    box-shadow: 2px;
+    
+}
+#p3{
+    background-color: green;
+    height: 238px;
+}
+#p2{
+    background-color: whitesmoke;
+    height: 238px;
+   
+
+
+}
+#p3:hover{
+    box-shadow: 5px 10px #dd4739;
+    transition: box-shadow 1s ;
+}
+.dot {
+    align-items: center;
+    align-content: center;
+    height: 238px;
+    width: 230px;
+    background-color: rgb(26, 38, 208);
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 0px;
+    border: 4px black dotted;
+   
+  }
+#p1{
+    background-color:salmon;
+    height: 238px;
+
+}

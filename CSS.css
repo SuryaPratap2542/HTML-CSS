@@ -1,3 +1,7 @@
+:root{
+    font-size:25px;
+    font-style: red serifs;
+}
 .main .h1{
     position: sticky; 
     text-align: center;
@@ -10,4 +14,20 @@
 .disp
 {
     margin-top: 5px;
+}
+h2{
+    color: rgb(255, 0, 255);
+    background-color: aquamarine;
+}
+p{
+    color: blue;
+    background-color: antiquewhite;
+}
+#hi{
+    text-decoration: wavy;
+    background-color: yellowgreen;
+}
+button{
+    color: red;
+    background-color: black;
 }
